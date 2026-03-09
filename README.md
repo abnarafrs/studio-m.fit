@@ -86,3 +86,10 @@ MOVIMENTACAO {
 ALUNO ||--o{ PAGAMENTO : faz
 PAGAMENTO ||--|| MOVIMENTACAO : gera
 ```
+---
+
+# ⚙️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
